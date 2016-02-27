@@ -1,0 +1,29 @@
+name: Rango
+favicon: null
+layout_spectrum: 0.565146273933351
+typography_spectrum: 0.9852448310703039
+title: Know your customer
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#000100'
+    - '#ffffff'
+    - '#a53752'
+    - '#a3a99f'
+    - '#ff94ce'
+  brandStrength: 0.75
+  lightness: 0.44486131868325174
+  saturation: 0.9797500153072178
+  rhythmicContrast: 0.845955713884905
+purpose: []
