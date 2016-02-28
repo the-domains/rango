@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Rango]]></title>
-        <description><![CDATA[Rango]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Know your customer]]></title>
+        <description><![CDATA[Know your customer]]></description>
+        <link>https://thegrid.ai/rango/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 14:32:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 28 Feb 2016 13:50:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rango/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Why, oh why is there weirdness out there?</p>]]></description>
+            <link>https://thegrid.ai/rango/c8460d8c-d674-4d44-a44d-8d062705cbf2/index.html</link>
+            <guid isPermaLink="false">c8460d8c-d674-4d44-a44d-8d062705cbf2</guid>
+            <pubDate>Sun, 28 Feb 2016 13:50:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Ever wonder about that next customer?</p>]]></description>
-            <link>undefinedd25ba70c-5b11-4bc6-96d3-9c26d18fa28e/index.html</link>
+            <link>https://thegrid.ai/rango/d25ba70c-5b11-4bc6-96d3-9c26d18fa28e/index.html</link>
             <guid isPermaLink="false">d25ba70c-5b11-4bc6-96d3-9c26d18fa28e</guid>
             <pubDate>Sat, 27 Feb 2016 14:32:10 GMT</pubDate>
         </item>
